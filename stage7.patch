@@ -1,0 +1,27 @@
+From ac710c642193d57882e3a7c48e1fcbad2d47ef3d Mon Sep 17 00:00:00 2001
+From: AkobirToshtemirov <toshtemirovakobir8@gmail.com>
+Date: Mon, 4 Dec 2023 16:34:54 +0500
+Subject: [PATCH] update another lines in firstFile from git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 13628cd..39382ef 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,8 +1,8 @@
+ 1
+ 2
+ 3
+-4
+-5
++4DD
++5VV
+ 6
+ 7
+ 8
+-- 
+2.38.1.windows.1
+
